@@ -25,4 +25,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RicardoGHa&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RicardoGHa&label=Profile%20Views&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
