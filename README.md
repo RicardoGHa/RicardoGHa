@@ -1,6 +1,7 @@
 ##                                                                             Hello There I'm Ricardo 😄
 
 ### I have technical experience and interest in:
+* Software Engineering
 * Deep Learning
 * Machine Learning
 * Data Engineering
